@@ -1,7 +1,10 @@
-public class PerguntaBinaria{
-  private boolean resposta;
-    if (resposta == true);
-      System.out.print("C");
-    else;
-      System.out.print("E");
-}    
+public class Prova{
+  private ArrayList<Pergunta> questoes
+  public void imprimirQuestoes(){
+    return Pergunta.descricao;
+  }
+  public void imprimirGabarito(){
+    return PerguntaMultEscolha.resposta;
+    return PerguntaBinaria.resposta;
+  }
+}
