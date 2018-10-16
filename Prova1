@@ -1,0 +1,7 @@
+public class PerguntaBinaria{
+  private boolean resposta;
+    if (resposta == true);
+      System.out.print("C");
+    else;
+      System.out.print("E");
+}    
