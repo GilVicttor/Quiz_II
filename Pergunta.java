@@ -6,8 +6,6 @@ public abstract class Pergunta{
     }
     
   public abstract String getResposta();
-    return PerguntaMultEscolha.resposta;
-    return PerguntaBinaria.resposta;
-  }
+    return resposta;
    
 }
