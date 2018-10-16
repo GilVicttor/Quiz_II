@@ -8,7 +8,7 @@ public class Prova{
     }
   }
   public void imprimirGabarito(){
-    return PerguntaMultEscolha.resposta;
-    return PerguntaBinaria.resposta;
+    System.out.print(PerguntaMultEscolha.resposta);
+    System.out.print(PerguntaBinaria.resposta);
   }
 }
