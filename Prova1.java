@@ -5,6 +5,7 @@ public class Prova{
     for (Pergunta p: questoes){
       System.out.print(indice+p.getDescricao())
     return Pergunta.descricao;
+    }
   }
   public void imprimirGabarito(){
     return PerguntaMultEscolha.resposta;
