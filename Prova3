@@ -1,4 +1,4 @@
-public class PerguntaMultEscolha{
+public class PerguntaMultEscolha extends Pergunta{
   private char alternativaCorreta;
 
   public String getResposta(){
