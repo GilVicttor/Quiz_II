@@ -4,6 +4,7 @@ public class PerguntaBinaria extends Pergunta{
   public String getResposta(){  
     if this.resposta{
       return "C";
+    }
     return "E";
     }
 }    
