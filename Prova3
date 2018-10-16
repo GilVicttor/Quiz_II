@@ -1,0 +1,7 @@
+public class PerguntaMultEscolha{
+  private char alternativaCorreta;
+
+  public String getResposta(){
+    return this.resposta;
+  }
+}
